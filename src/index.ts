@@ -1,3 +1,3 @@
-const weiboHotSearch = require('./weiboHotSearch/index.ts');
+import weiboHotSearch from './weiboHotSearch/index';
 
 weiboHotSearch();

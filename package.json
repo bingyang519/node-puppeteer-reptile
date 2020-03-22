@@ -4,7 +4,8 @@
   "description": "基于node puppeteer库的爬虫练习项目",
   "main": "index.js",
   "scripts": {
-    "server": "npx tsnd --respawn --transpileOnly ./src/index.ts"
+    "server": "npx tsnd --respawn --transpileOnly ./src/index.ts",
+    "start": "npx ts-node ./src/index.ts"
   },
   "repository": {
     "type": "git",
